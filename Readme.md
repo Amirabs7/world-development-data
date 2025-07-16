@@ -26,4 +26,4 @@ This project analyzes global development indicators such as life expectancy, GDP
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/world-development-data.git
+git clone https://github.com/Amirabs7/world-development-data.git
