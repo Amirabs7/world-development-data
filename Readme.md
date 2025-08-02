@@ -56,10 +56,10 @@ Our analysis of global development indicators uncovered several compelling trend
 - The data shows a weak or no correlation—being densely populated doesn't significantly impact national happiness.
 
 4- Country-Level Variation
-Even within the same income class, happiness levels vary widely. Culture, governance, and social trust likely play major roles.
+- Even within the same income class, happiness levels vary widely. Culture, governance, and social trust likely play major roles.
 
 5-Educated but Still Poor: The Human Capital Paradox
-Some countries—like Kyrgyzstan and Uzbekistan—have achieved near-universal literacy, yet remain economically underdeveloped. This reveals a major underutilization of human capital. It’s a red flag: education alone isn’t enough without robust economic opportunities, governance, and innovation ecosystems.
+- Some countries—like Kyrgyzstan and Uzbekistan—have achieved near-universal literacy, yet remain economically underdeveloped. This reveals a major underutilization of human capital. It’s a red flag: education alone isn’t enough without robust economic opportunities, governance, and innovation ecosystems.
 
 ---
 
@@ -68,6 +68,7 @@ Some countries—like Kyrgyzstan and Uzbekistan—have achieved near-universal l
 1. Clone this repository:
 2. Install dependencies
 3. run: world_development_data.py
+
 
 
 
