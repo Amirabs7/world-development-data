@@ -1,6 +1,28 @@
 # 🌍 World Development Data Analysis
 
 This project analyzes global development indicators such as life expectancy, GDP per capita, literacy, and income class. It uncovers key social and economic patterns across countries using data cleaning, filtering, and interactive visualizations.
+This dataset presents a compilation of averaged world development indicator data spanning the years 2015 to 2018, amalgamated from various reputable sources:
+
+The World Bank - Providing data on population, income classification, pollution levels, access to electricity, life expectancy, and more.
+World Happiness Report - Offering insights into social support, generosity, and freedom to make life choices.
+Transparency International - Source of data regarding the corruption perceptions index.
+
+---
+
+## 📁 Dataset & Scope
+
+Dataset source : https://www.kaggle.com/datasets/keithvincentburca/world-development-data
+This data has already been manipulated, cleaned and transformed by the author. Further data processing might be required. For access to the unaltered raw data
+
+---
+
+## 🧪 Methods & Tools  
+
+pandas
+plotly.express	
+matplotlib.pyplot	
+seaborn
+colab.files	
 
 ---
 
@@ -24,6 +46,7 @@ This project analyzes global development indicators such as life expectancy, GDP
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
+2. Install dependencies
+3. run: world_development_data.py
 
-   ```bash
-git clone https://github.com/Amirabs7/world-development-data.git
+
