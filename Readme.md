@@ -12,17 +12,17 @@ Transparency International - Source of data regarding the corruption perceptions
 ## 📁 Dataset & Scope
 
 Dataset source : https://www.kaggle.com/datasets/keithvincentburca/world-development-data
-This data has already been manipulated, cleaned and transformed by the author. Further data processing might be required. For access to the unaltered raw data
+This data has already been manipulated, cleaned and transformed by the author. Further data processing might be required. 
 
 ---
 
 ## 🧪 Methods & Tools  
 
-pandas
-plotly.express	
-matplotlib.pyplot	
-seaborn
-colab.files	
+- pandas
+- plotly.express	
+- matplotlib.pyplot	
+- seaborn
+- colab.files	
 
 ---
 
@@ -48,5 +48,6 @@ colab.files
 1. Clone this repository:
 2. Install dependencies
 3. run: world_development_data.py
+
 
 
