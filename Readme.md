@@ -1,7 +1,7 @@
 # 🌍 World Development Data Analysis
 
 This project analyzes global development indicators such as life expectancy, GDP per capita, literacy, and income class. It uncovers key social and economic patterns across countries using data cleaning, filtering, and interactive visualizations.
-This dataset presents a compilation of averaged world development indicator data spanning the years 2015 to 2018, amalgamated from various reputable sources:
+This dataset presents a compilation of averaged world development indicator data spanning the years **2015 to 2018**, amalgamated from various reputable sources:
 
 The World Bank - Providing data on population, income classification, pollution levels, access to electricity, life expectancy, and more.
 World Happiness Report - Offering insights into social support, generosity, and freedom to make life choices.
@@ -35,13 +35,19 @@ This data has already been manipulated, cleaned and transformed by the author. F
 
 ---
 
-## 📊 Visualizations
+# 📊 Key Visualizations
 
-- **Bar Chart**: Life expectancy by country
-- **Scatter Plot**: GDP per capita vs life expectancy (fixed bubble size)
-- **Heatmap**: Correlation between variables (e.g., GDP, education, health)
+### GDP vs Life Expectancy
+![GDP and Life Expectancy](https://raw.githubusercontent.com/Amirabs7/world-development-data/main/GDP%20per%20capita%20vs%20life%20expectancy.png)
+
+
+### Correlations Between Variables
+![Correlations Analysis](https://raw.githubusercontent.com/Amirabs7/world-development-data/main/Correlations%20btw%20variables.png)
+
 
 ---
+
+
 ## 📊 Key Insights from the Data
 
 Our analysis of global development indicators uncovered several compelling trends—and a few red flags:
@@ -69,6 +75,14 @@ Our analysis of global development indicators uncovered several compelling trend
 2. Install dependencies
 3. run: world_development_data.py
 
+
+---
+
+## 👩‍💻 Author
+
+**Amira Ben Salem**  
+📫 Email: besamira77@gmail.com  
+📍 Berlin, Germany  
 
 
 
