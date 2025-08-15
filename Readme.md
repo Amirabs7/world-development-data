@@ -69,20 +69,29 @@ Our analysis of global development indicators uncovered several compelling trend
 
 ---
 
+
 ## 🚀 How to Run the Project
 
-1. Clone this repository:
+1. Clone this repository
+git clone <repo-link>
+
 2. Install dependencies
-3. run: world_development_data.py
+pip install -r requirements.txt
+
+3. Run the analysis
+python world_development_data.py
+
 
 
 ---
+
 
 ## 👩‍💻 Author
 
 **Amira Ben Salem**  
 📫 Email: besamira77@gmail.com  
 📍 Berlin, Germany  
+
 
 
 
