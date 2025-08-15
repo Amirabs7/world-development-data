@@ -9,6 +9,13 @@ Transparency International - Source of data regarding the corruption perceptions
 
 ---
 
+## What this project shows
+- Multi-source global dataset analysis and cleaning using Python (pandas, matplotlib, plotly)
+- Socio-economic insights and identification of countries at risk or performing well
+- Reproducible project for data interpretation for policy/research
+
+---
+
 ## 📁 Dataset & Scope
 
 Dataset source : https://www.kaggle.com/datasets/keithvincentburca/world-development-data
@@ -91,6 +98,7 @@ python world_development_data.py
 **Amira Ben Salem**  
 📫 Email: besamira77@gmail.com  
 📍 Berlin, Germany  
+
 
 
 
