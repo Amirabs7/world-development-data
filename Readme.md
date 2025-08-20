@@ -92,12 +92,23 @@ python world_development_data.py
 
 ---
 
+## Disclaimer & Ethical Note:
+
+Educational Purpose: This project was created for portfolio/educational purposes to demonstrate skills in data cleaning, exploration, and machine learning.
+Data Source: The analysis is based on a publicly available dataset. I do not claim to own or have collected this data.
+Limitations: The findings and clusters are exploratory in nature and are based on the specific methodology and assumptions detailed in the notebook. They are not definitive and should not be considered a complete representation of reality.
+Not Endorsement: This project is not affiliated with, endorsed by, or sponsored by any mentioned companies or entities.
+
+
+---
+
 
 ## 👩‍💻 Author
 
 **Amira Ben Salem**  
 📫 Email: besamira77@gmail.com  
 📍 Berlin, Germany  
+
 
 
 
